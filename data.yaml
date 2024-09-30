@@ -1,4 +1,4 @@
-path: /kaggle/working/large-license-plate-dataset
+path: /kaggle/working/datasets
 train: images/train
 val: images/val
 
